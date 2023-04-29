@@ -7,3 +7,5 @@ console.log("sub of two numbers - " +(a-b));
 
 
 console.log("Div of two number is - " + (a/b));
+
+console.log("hi now i will use resabe");
