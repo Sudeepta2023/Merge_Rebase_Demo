@@ -6,3 +6,4 @@ console.log(a+b);
 console.log("sub of two numbers - " +(a-b));
 
 
+console.log("Div of two number is - " + (a/b));
